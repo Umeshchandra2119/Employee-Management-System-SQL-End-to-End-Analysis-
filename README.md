@@ -76,11 +76,11 @@ The project performs analysis to answer important HR-related questions such as:
 
 
 ## Key Insights
-• Finance and IT departments have the highest number of employees, indicating their importance in operational activities.
-• Payroll analysis shows the organization spends approximately 2.7M per month, highlighting payroll as a major operational cost.
-• The Finance Director role offers the highest salary, reflecting leadership-level compensation structures.
-• Leave patterns appear balanced across departments, suggesting consistent HR leave policies.
-• Department bonus allocation indicates higher compensation concentration in strategic departments such as Finance.
+* Finance and IT departments have the highest number of employees, indicating their importance in operational activities.
+* Payroll analysis shows the organization spends approximately 2.7M per month, highlighting payroll as a major operational cost.
+* The Finance Director role offers the highest salary, reflecting leadership-level compensation structures.
+* Leave patterns appear balanced across departments, suggesting consistent HR leave policies.
+* Department bonus allocation indicates higher compensation concentration in strategic departments such as Finance.
 
 ## Project Structure
 ### Folder Description
