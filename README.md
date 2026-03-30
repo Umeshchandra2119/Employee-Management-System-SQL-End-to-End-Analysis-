@@ -1,4 +1,4 @@
-# SQL_Employement_Management_System_Project
+# SQL_Employee_Management_System_Project
 
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
