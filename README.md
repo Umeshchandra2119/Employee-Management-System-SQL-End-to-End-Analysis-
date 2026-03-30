@@ -31,7 +31,6 @@ The system consists of six interconnected tables:
 * SQL-based analysis for HR insights and payroll reporting
   
 ## Entity Relationship Diagram
-<img width="521" height="448" alt="ER Diagram" src="https://github.com/user-attachments/assets/8fcc3564-87b7-42d7-9aef-9b43fb8c815b" />
 
 The ER diagram illustrates the relationships between the six core tables used in the Employee Management System database.
 
