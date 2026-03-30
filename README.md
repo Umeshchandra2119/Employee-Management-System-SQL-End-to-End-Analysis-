@@ -1,4 +1,4 @@
-<img width="521" height="448" alt="ER Diagram" src="https://github.com/user-attachments/assets/b271c8fc-6ff1-44e5-876a-491d0f10941f" />![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
+(https://img.shields.io/badge/SQL-Analysis-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Data Analysis](https://img.shields.io/badge/Data-Analytics-green)
 ![HR Analytics](https://img.shields.io/badge/HR-Analytics-purple)
