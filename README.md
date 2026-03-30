@@ -49,22 +49,30 @@ The project performs analysis to answer important HR-related questions such as:
 
 
 ## Sample Analysis Results
-### Department-wise Employee Distribution
-
-
-### Top 5 Highest Paid Employees
-
-
-### Average Salary per Department
-
-
-### Monthly Payroll Analysis
-
-
-### Department Bonus Distribution
-
-
-### Leave Analysis
+<h3>Department-wise Employee Distribution</h3>
+<p align="center">
+  <img src="Images/employee_distribution.png" width="400">
+</p>
+<h3>Top 5 Highest Paid Employees</h3>
+<p align="center">
+  <img src="Images/top_paid_employees.png" width="400">
+</p>
+<h3>Average Salary per Department</h3>
+<p align="center">
+  <img src="Images/average_salary_department.png" width="400">
+</p>
+<h3>Monthly Payroll Analysis</h3>
+<p align="center">
+  <img src="Images/monthly_payroll.png" width="400">
+</p>
+<h3>Department Bonus Distribution</h3>
+<p align="center">
+  <img src="Images/bonus_analysis.png" width="400">
+</p>
+<h3>Leave Analysis</h3>
+<p align="center">
+  <img src="Images/leave_analysis.png" width="400">
+</p>
 
 
 ## Key Insights
