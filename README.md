@@ -51,23 +51,23 @@ The project performs analysis to answer important HR-related questions such as:
 ## Sample Analysis Results
 <h3>Top 5 Highest Paid Employees</h3>
 <p align="center">
-  <img src="Images/top_paid_employees.png" width="400">
+  <img src="Analysis Images/top_paid_employees.png" width="400">
 </p>
 <h3>Average Salary per Department</h3>
 <p align="center">
-  <img src="Images/average_salary_department.png" width="400">
+  <img src="Analysis Images/average_salary_department.png" width="400">
 </p>
 <h3>Monthly Payroll Analysis</h3>
 <p align="center">
-  <img src="Images/monthly_payroll.png" width="400">
+  <img src="Analysis Images/monthly_payroll.png" width="400">
 </p>
 <h3>Department Bonus Distribution</h3>
 <p align="center">
-  <img src="Images/bonus_analysis.png" width="400">
+  <img src="Analysis Images/bonus_analysis.png" width="400">
 </p>
 <h3>Leave Analysis</h3>
 <p align="center">
-  <img src="Images/leave_analysis.png" width="400">
+  <img src="Analysis Images/leave_analysis.png" width="400">
 </p>
 
 
@@ -110,10 +110,10 @@ Follow these steps to recreate and run this project on your local machine.
 ```git clone https://github.com/Umeshchandra2119/Employee-Management-System-SQL-End-to-End-Analysis-.git```
 
 ## 2. Open MySQL Workbench
-Create a new connection to your <MySQL server.>
+Create a new connection to your MySQL server.
 
 ## 3. Create the Database
-Run the SQL script located in the <sql> folder.
+Run the SQL script located in the `sql` folder.
 ```
 CREATE DATABASE Employee_Management_System_project;
 USE Employee_Management_System_project;
@@ -124,11 +124,11 @@ Run the table creation script:
 ```sql/table_creation.sql```
 
 ## 5. Import Dataset
-Import the CSV files from the data folder into the respective tables.
+Import the CSV files from the `data folder` into the respective tables.
 
 ## 6. Run Analysis Queries
-Execute the <SQL queries> located in:
+Execute the `SQL queries` located in:
 
 ```sql/analysis_queries.sql```
 
-These queries generate insights on <employee distribution>,<salary allocation>,<payroll analysis>, and <leave patterns.>
+These queries generate insights on employee distribution,salary allocation,payroll analysis, and leave patterns.
