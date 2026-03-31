@@ -49,10 +49,7 @@ The project performs analysis to answer important HR-related questions such as:
 
 
 ## Sample Analysis Results
-<h3>Department-wise Employee Distribution</h3>
-<p align="center">
-  <img src="Images/employee_distribution.png" width="400">
-</p>
+https://github.com/Umeshchandra2119/Employee-Management-System-SQL-End-to-End-Analysis-/blob/main/Analysis%20Images/average_salary_department.png
 <h3>Top 5 Highest Paid Employees</h3>
 <p align="center">
   <img src="Images/top_paid_employees.png" width="400">
