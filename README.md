@@ -110,12 +110,12 @@ Follow these steps to recreate and run this project on your local machine.
 ```git clone https://github.com/Umeshchandra2119/Employee-Management-System-SQL-End-to-End-Analysis-.git```
 
 ## 2. Open MySQL Workbench
-Create a new connection to your MySQL server.
+Create a new connection to your `MySQL server.`
 
 ## 3. Create the Database
 Run the SQL script located in the sql folder.
 
-```CREATE DATABASE Employee_Management_System_project;```
+```CREATE DATABASE Employee_Management_System_project;
 USE Employee_Management_System_project;```
 
 ## 4. Create Tables
