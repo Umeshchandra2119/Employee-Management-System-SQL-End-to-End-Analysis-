@@ -107,7 +107,9 @@ The structured schema and analytical queries highlight the importance of data-dr
 Follow these steps to recreate and run this project on your local machine.
 
 ## 1. Clone the Repository
-```git clone https://github.com/Umeshchandra2119/Employee-Management-System-SQL-End-to-End-Analysis-.git```
+```
+git clone https://github.com/Umeshchandra2119/Employee-Management-System-SQL-End-to-End-Analysis-.git
+```
 
 ## 2. Open MySQL Workbench
 Create a new connection to your MySQL server.
@@ -120,15 +122,17 @@ USE Employee_Management_System_project;
 ```
 ## 4. Create Tables
 Run the table creation script:
-
-```sql/table_creation.sql```
+```
+sql/table_creation.sql
+```
 
 ## 5. Import Dataset
 Import the CSV files from the `data folder` into the respective tables.
 
 ## 6. Run Analysis Queries
 Execute the `SQL queries` located in:
-
-```sql/analysis_queries.sql```
+```
+sql/analysis_queries.sql
+```
 
 These queries generate insights on employee distribution,salary allocation,payroll analysis, and leave patterns.
